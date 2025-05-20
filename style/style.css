@@ -85,7 +85,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url(/img/taoanhdep_mo_rong_anh_40381-removebg-preview\ \(1\).png) no-repeat;
+    background: url(../img/taoanhdep_mo_rong_anh_40381-removebg-preview\ \(1\).png) no-repeat;
     background-size: 43% 85%;
    
     background-position:  100% 100%;
@@ -696,7 +696,7 @@ span{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url(/gioithiweu/img/taoanhdep_mo_rong_anh_40381-removebg-preview\ \(1\).png) no-repeat;
+    background: url(../img/taoanhdep_mo_rong_anh_40381-removebg-preview\ \(1\).png) no-repeat;
     background-size: 43% 85%;
     background-position:  100% 100%;
     }
